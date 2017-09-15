@@ -1,0 +1,12 @@
+C:\Users\amits128\Desktop\Learing\selenium1\Aug24Project\Aug24Project\bin\Debug\IEDriverServer.exe
+C:\Users\amits128\Desktop\Learing\selenium1\Aug24Project\Aug24Project\bin\Debug\Aug24Project.dll
+C:\Users\amits128\Desktop\Learing\selenium1\Aug24Project\Aug24Project\bin\Debug\Aug24Project.pdb
+C:\Users\amits128\Desktop\Learing\selenium1\Aug24Project\Aug24Project\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\amits128\Desktop\Learing\selenium1\Aug24Project\Aug24Project\bin\Debug\Selenium.WebDriverBackedSelenium.dll
+C:\Users\amits128\Desktop\Learing\selenium1\Aug24Project\Aug24Project\bin\Debug\ThoughtWorks.Selenium.Core.dll
+C:\Users\amits128\Desktop\Learing\selenium1\Aug24Project\Aug24Project\bin\Debug\WebDriver.dll
+C:\Users\amits128\Desktop\Learing\selenium1\Aug24Project\Aug24Project\bin\Debug\WebDriver.Support.dll
+C:\Users\amits128\Desktop\Learing\selenium1\Aug24Project\Aug24Project\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+C:\Users\amits128\Desktop\Learing\selenium1\Aug24Project\Aug24Project\obj\Debug\Aug24Project.csprojResolveAssemblyReference.cache
+C:\Users\amits128\Desktop\Learing\selenium1\Aug24Project\Aug24Project\obj\Debug\Aug24Project.dll
+C:\Users\amits128\Desktop\Learing\selenium1\Aug24Project\Aug24Project\obj\Debug\Aug24Project.pdb
